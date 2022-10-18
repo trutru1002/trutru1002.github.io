@@ -1,6 +1,6 @@
 ---
 title: "IHCR_test"
-author: "Yihui Xie"
+author: "Truitt Elliott"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -9,11 +9,9 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "This is a minimal example of using the bookdown package to write a a tutorial"
 ---
 
 # Opening
-
-heading `#`.
 
 This is a sample section for what a markdown tutorial might look like using bookdown
