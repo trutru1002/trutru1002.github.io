@@ -1,10 +1,15 @@
-# Creating Reusable Data  {#reusable}
+# Creating Reusable Data {#reusable}
 
-Reflection:  Have you ever taken over a project from someone else, or had to go through someone else\'s file system - only to find it to be incomprehensible?  Have you opened an unknown spreadsheet to see titleless column names, incomprehensible measurements, and miscellaneous notes scattered in additional cells?  If you can\'t contact the original creator of the data, how are you supposed to use it?  These frustrations are common when working with online data, & can be avoided when publishing your data online - ultimately ensuring that your data stays useful, relevant, & can be built upon in future projects.
+### *Reflection*
 
-Summary:  If your data/output will be available for open source scrutiny, then the data must be legible to an outsider coming in without consulting you.  A data dictionary, detailed summary, data connection map, ect - are all tools that should be implemented.  This allows for future projects to use the data with minimal effort in understanding what they\'re working with.   
+Have you ever taken over a project from someone else, or had to go through someone else's file system - only to find it to be incomprehensible?  Have you opened an unknown spreadsheet to see titleless column names, incomprehensible measurements, and miscellaneous notes scattered in additional cells?  If you can't contact the original creator of the data, how are you supposed to use it?  These frustrations are common when working with online data, & can be avoided when publishing your data online - ultimately ensuring that your data stays useful, relevant, & can be built upon in future projects.
 
-Pitfalls: If your spreadsheet contains columns/rows without identifiers, are connected in ways that aren\'t documented, or has so many files that it would be impossible for someone not on the project to understand - then it will be useless to any future researchers looking to use the data.  Your data should always carry supplemental information with explanation, particularly when that data is going to be in long term storage at a project's end.
+### *Summary*
+
+If your data/output will be available for open source scrutiny, then the data must be legible to an outsider coming in without consulting you.  A data dictionary, detailed summary, data connection map, ect - are all tools that should be implemented.  This allows for future projects to use the data with minimal effort in understanding what they're working with.   
+
+### *Pitfalls*
+
+If your spreadsheet contains columns/rows without identifiers, are connected in ways that aren't documented, or has so many files that it would be impossible for someone not on the project to understand - then it will be useless to any future researchers looking to use the data.  Your data should always carry supplemental information with explanation, particularly when that data is going to be in long term storage at a project's end.
 
 \
-
