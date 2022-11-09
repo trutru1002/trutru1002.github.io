@@ -3,7 +3,7 @@ title: "IHCR_test"
 author: "Truitt Elliott"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: bookdown::gitbook:default
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -12,6 +12,6 @@ github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to write a a tutorial"
 ---
 
-# Opening {#reusable}
+# Opening {#contents}
 
-This is a sample section for what a markdown tutorial might look like using bookdown
+
