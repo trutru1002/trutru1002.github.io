@@ -6,7 +6,7 @@ Have you ever taken over a project from someone else, or had to go through someo
 
 ### *Summary*
 
-If your data/output will be available for open source scrutiny, then the data must be legible to an outsider coming in without consulting you.  A data dictionary, detailed summary, data connection map, ect - are all tools that should be implemented.  This allows for future projects to use the data with minimal effort in understanding what they're working with.   
+If your data/output will be available for open source scrutiny, then the data must be legible to an outsider coming in without consulting you.  A data dictionary, detailed summary, data connection map, ect - are all tools that should be implemented.  This allows for future projects to use the data with minimal effort in understanding what they're working with.
 
 ### *Pitfalls*
 
