@@ -1,6 +1,7 @@
 contents
 main
-reusable_2
-reflection
-summary
+managment
+introduction
+questions-to-consider
 pitfalls
+additional-resources

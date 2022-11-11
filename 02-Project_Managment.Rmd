@@ -2,14 +2,19 @@
 
 ### *Introduction*
 
-While not directly related to data management, bad project management will cripple your ability to keep track of data, produce new data, and complete your interdisciplinary project in a timely manner.  
+While not directly related to data management, bad project management will cripple your ability to keep track of data, produce new data, and complete your interdisciplinary project in a timely manner.  More than many other projects, good communication & project planning from the very beginning is critical for an interdisciplinary & highly collaborative project - as several teams will be bringing their own workflows & communication channels to the table.  
 
-### *Summary*
+### *Questions to Consider*
 
-If your data/output will be available for open source scrutiny, then the data must be legible to an outsider coming in without consulting you.  A data dictionary, detailed summary, data connection map, ect - are all tools that should be implemented.  This allows for future projects to use the data with minimal effort in understanding what they're working with.
+-   What are the specific goals and outputs for the project?  For your team?  Do different teams have different goals in mind for this project?
+-   What communication channels will be used?  Will data be shared through these channels?  How will the team update each other on data changes?  
+-   Who is responsible for the data?  Will different teams be in charge of different data sets?  Who is ultimately responsible for quality control of which outputs?  
+
 
 ### *Pitfalls*
 
-If your spreadsheet contains columns/rows without identifiers, are connected in ways that aren't documented, or has so many files that it would be impossible for someone not on the project to understand - then it will be useless to any future researchers looking to use the data.  Your data should always carry supplemental information with explanation, particularly when that data is going to be in long term storage at a project's end.
+There are several potential pitfalls to poor project management.  From a data prospective - poor project management can quickly lead to disorganized file storage, miss communication on project goals, scope creep, and unclear roles on who is responsible for the data.   
 
-\
+### *Additional Resources*
+
+While project management is important, it is not the focus of this tutorial - for more information on planning your IHCR project, please refer to this project charter. [LINK](https://docs.google.com/document/d/1BglLx4rkEUubUDj_EweI2wVELu_u7OdF/edit)

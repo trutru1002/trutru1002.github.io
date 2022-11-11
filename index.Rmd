@@ -13,3 +13,4 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Opening {#contents}
 
+This document serves as the working document for the Interdisciplinary and Highly Collaborative Research data management tutorial.  All language and layouts are currently in draft format.  
