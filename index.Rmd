@@ -1,5 +1,5 @@
 ---
-title: "IHCR_test"
+title: "IHCR Working Tutorial Draft"
 author: "Truitt Elliott"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

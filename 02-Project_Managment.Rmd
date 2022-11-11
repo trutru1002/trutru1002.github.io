@@ -1,8 +1,8 @@
-# Creating Reusable Data {#reusable_2}
+# Project Managment {#managment}
 
-### *Reflection*
+### *Introduction*
 
-Have you ever taken over a project from someone else, or had to go through someone else's file system - only to find it to be incomprehensible?  Have you opened an unknown spreadsheet to see titleless column names, incomprehensible measurements, and miscellaneous notes scattered in additional cells?  If you can't contact the original creator of the data, how are you supposed to use it?  These frustrations are common when working with online data, & can be avoided when publishing your data online - ultimately ensuring that your data stays useful, relevant, & can be built upon in future projects.
+While not directly related to data management, bad project management will cripple your ability to keep track of data, produce new data, and complete your interdisciplinary project in a timely manner.  
 
 ### *Summary*
 
