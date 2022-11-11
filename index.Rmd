@@ -13,4 +13,3 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Opening {#contents}
 
-
